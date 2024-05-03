@@ -1,0 +1,23 @@
+{
+  "name": "code-connect",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^3.0.1",
+    "@mdx-js/react": "^3.0.1",
+    "@next/mdx": "^14.2.3",
+    "@types/mdx": "^2.0.13",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "winston": "^3.13.0"
+  }
+}
